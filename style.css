@@ -1,0 +1,25 @@
+body {
+    display:flex;
+    justify-content:center;
+}
+
+nav {
+    display:flex;
+    justify-content:flex-end;
+}
+
+.container {
+    width:80%;
+    margin:auto 0;
+    padding:23px;
+    text-align:justify;
+}
+
+.dark-mode {
+    background-color:#222;
+    color:#fff
+}
+
+a {
+    color:inherit
+}
